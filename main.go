@@ -7,5 +7,6 @@ func Add1(no1, no2 int) int {
 }
 
 func main() {
+	fmt.Println("Kanna")
 	fmt.Println(Add1(2,5))
 }
